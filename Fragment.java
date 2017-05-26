@@ -20,7 +20,7 @@ import butterknife.ButterKnife;
  *  ${PROJECT_NAME}
  *
  *  Created by ${USER} on ${DATE}.
- *  Copyright (c) ${YEAR} Bellhops. All rights reserved.
+ *  Copyright (c) ${YEAR} YourCompany. All rights reserved.
  */
 public class ${NAME}Fragment extends BaseFragment implements ${NAME}Contracts.PresenterViewContract {
 
